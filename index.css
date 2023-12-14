@@ -230,12 +230,12 @@ body.portal {
   }
   
   img {
-	  max-width: 100%;
-	  height:auto;
-	  margin-bottom:10px;
+	max-width: 100%;
+	height:auto;
+	margin-bottom:10px;
   }
   
-  #hotspot-selector{	  
+  #hotspot-selector {
 	background:none;  
     outline:none;  
     border:none;
