@@ -1,3 +1,4 @@
-![Screenshot_2023-12-14-17-47-28-411_com google android captiveportallogin-edit](https://github.com/darkhoundz/KLCiS-TP-Link-Omada-Hotspot-E-Payment/assets/28075740/fe9faa09-eea2-402f-b0b9-ac6f757d2c65)
+![sc](https://github.com/darkhoundz/KLCiS-TP-Link-Omada-Hotspot-E-Payment/assets/28075740/06873159-613d-4ca3-99c8-f3934f7244da)
 
-Detailed tutorial will be posted here soonest.
+
+Download and edit the index.html. Change the KLCiS API Key with your KLCiS account and the amount/rates based on the voucher codes that you have uploaded in KLCiS. Zip all the files and upload it to your Omada Cloud/Controller Portal template.
