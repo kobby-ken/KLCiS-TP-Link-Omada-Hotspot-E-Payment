@@ -382,7 +382,7 @@ numberInput.addEventListener('input', updateCheckoutCard);
 
 form.addEventListener('submit', function(event) {
   var number = numberInput.value;
-  if (contactNumber.textContent === '-' || amountToPay.textContent === '₱0.00' || number.length !== 11) {
+  if (contactNumber.textContent === '-' || amountToPay.textContent === 'Gh0.00' || number.length !== 11) {
   event.preventDefault();
   alert('Please select a promo and enter a valid 11-digit mobile number.');
   }
